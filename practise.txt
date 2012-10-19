@@ -1,5 +1,2 @@
-Hey this is from super master repo 
-and th is is local - done
-
-editing from super repo
+Hey this is from super master repo
  
